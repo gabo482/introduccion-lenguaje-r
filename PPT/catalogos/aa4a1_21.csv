@@ -1,0 +1,12 @@
+cve,descrip
+0,Ninguno
+1,Primaria
+2,Secundaria
+3,Carrera técnica con secundaria terminada
+4,Normal básica
+5,Preparatoria o Bachillerato
+6,Carrera técnica con preparatoria terminada
+7,Licenciatura o ingeniería
+8,"Especialidad, maestría o doctorado"
+88,No responde
+99,No sabe

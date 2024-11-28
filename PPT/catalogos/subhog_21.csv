@@ -1,0 +1,31 @@
+cve,descrip
+0,Subhogar base
+1,"Sin cambio, el subhogar contiene NP=010"
+2,"Sin cambio, el subhogar contiene NP=020"
+3,"Sin cambio, el subhogar contiene NP=011"
+4,"Sin cambio, el subhogar contiene NP=021"
+11,Nuevo subhogar contiene NP=010
+12,Nuevo subhogar contiene NP=020
+13,Nuevo subhogar contiene NP=011
+14,Nuevo subhogar contiene NP=021
+15,Nuevo subhogar contiene NP=012
+16,Nuevo subhogar contiene NP=022
+17,Nuevo subhogar contiene NP=013
+18,Nuevo subhogar contiene NP=023
+19,Nuevo subhogar contiene NP=014
+20,Nuevo subhogar contiene NP=024
+21,Nuevo subhogar contiene NP=015
+31,NP=010 Fallecido
+32,NP=020 Fallecido
+33,NP=011 Fallecido
+34,NP=021 Fallecido
+35,NP=012 Fallecido
+36,NP=022 Fallecido
+37,NP=013 Fallecido
+38,NP=023 Fallecido
+39,NP=014 Fallecido
+40,NP=024 Fallecido
+70,"NP=010 & NP=020 separados, reunión"
+71,"Subsecuente NP=010 subhogar separado, reunión"
+72,"Subsecuente NP=020 subhogar separado, reunión"
+77,Subhogar perdido durante el seguimiento/No contactado
