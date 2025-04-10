@@ -5,7 +5,7 @@ logico <- c(T,F)
 logico
 
 #creando un vector double
-numerico <- (1.3,1.7,1.8)
+
 numerico <- c(1.3,1.7,1.8)
 numerico
 numerico <- c(1.3,1.7,1.8,5L)
